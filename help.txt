@@ -1,0 +1,5 @@
+Bienvenu dans notre Application Scripting
+* "-lp" liste les processus en cours d'exécution
+* "-s pid" affiche l'état d'un processus don't le pid est un argument
+* "-lcpu" affiche les information en relation avec le cpu
+ 
